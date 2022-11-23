@@ -1,0 +1,17 @@
+.btn {
+    /* default style button */
+    @apply relative text-center rounded-tr-[14px] rounded-bl-[14px];
+}
+
+.site-video{
+    max-width: 300px;
+    /* display: none; */
+}
+
+@media screen and (min-width: 992px) {
+    .site-video{
+        max-width: 800px;
+        /* width: 1200px; */
+        /* display: none; */
+    }
+  }

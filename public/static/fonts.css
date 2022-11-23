@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Founders Grotesk';
+    src: url('/Fonts/Founders_Grotesk/Founders_Grotesk_Light_300.otf') format('otf');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Founders Grotesk';
+    src: url('/Fonts/Founders_Grotesk/Founders_Grotesk_400.otf') format('otf');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Founders Grotesk';
+    src: url('/Fonts/Founders_Grotesk/Founders_Grotesk_Medium_500.otf') format('otf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Founders Grotesk';
+    src: url('/Fonts/Founders_Grotesk/Founders_Grotesk_SmB_600.otf') format('otf');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Founders Grotesk';
+    src: url('/Fonts/Founders_Grotesk/Founders_Grotesk_Bold_700.otf') format('otf');
+    font-weight: 700;
+    font-style: normal;
+}

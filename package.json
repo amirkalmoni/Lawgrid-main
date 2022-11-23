@@ -1,0 +1,39 @@
+{
+  "name": "lawgrid-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.3",
+    "@heroicons/react": "^2.0.13",
+    "@next/font": "^13.0.1",
+    "@sanity/block-content-to-react": "^3.0.0",
+    "@sanity/client": "^3.4.1",
+    "@sanity/image-url": "^1.0.1",
+    "classnames": "^2.3.2",
+    "marqy": "0.0.8",
+    "next": "13.0.0",
+    "query-string": "^7.1.1",
+    "react": "18.2.0",
+    "react-countup": "^6.3.2",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.6.0",
+    "react-player": "^2.11.0",
+    "react-visibility-sensor": "^5.1.1",
+    "sitemap": "^7.1.1",
+    "swr": "^1.3.0",
+    "use-intersection": "^0.2.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "eslint": "8.26.0",
+    "eslint-config-next": "13.0.0",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.1"
+  }
+}
